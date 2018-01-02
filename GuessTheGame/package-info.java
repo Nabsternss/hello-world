@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author Nabster
- *
- */
-package GuessTheGame;
